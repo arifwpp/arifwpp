@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin
+<p>My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin</p>
 
 ### How to reach me 📫
-Instagram : https://www.instagram.com/arifwyp/
-Twitter : https://twitter.com/arifwyp
+<p>Instagram : https://www.instagram.com/arifwyp/</p>
+<p>Twitter : https://twitter.com/arifwyp</p>
 
 
 <!--
